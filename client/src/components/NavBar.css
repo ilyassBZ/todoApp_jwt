@@ -1,0 +1,19 @@
+.Navbar{
+	background-color: #222831;
+}
+.Navbar-btn,#dropdown-basic-button{
+background-color: #eeeeee !important;	
+color: #222831 !important;
+font-weight: 670 !important;
+border: none !important;
+}
+.Navbar-btn:hover,#dropdown-basic-button:hover{
+	background-color: #393e46 !important;
+	color: #eeeeee !important;
+	
+}
+.Navbar-title{
+	color: #eeeeee !important;
+	font-weight: 550;
+}
+

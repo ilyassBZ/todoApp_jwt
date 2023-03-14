@@ -1,0 +1,74 @@
+.home{
+	display: flex;
+	align-items: center;
+	min-height: calc(100vh - 3rem);
+}
+.home-container{
+	margin-top: 2rem;
+	align-items: center;
+	width: 550px;
+	height: auto;
+	justify-content: center;
+	background-color: #eeeeee;
+	border-radius: 10%;
+}
+
+.home-title{
+	display: flex;
+	justify-content: center;
+	padding: 10% 10% ;
+	color:#0092ca;
+	font-weight: 990 !important;
+}
+.btn-add{
+	margin-right: 5px;
+}
+
+.input-add{
+	margin: 0 auto;
+	
+	
+	
+}
+.inputAdd{
+	border: none !important;width: 400px !important;
+	display: flex;
+	justify-content: center;
+}
+.inputAdd:active,.inputAdd:hover,.inputAdd:focus{
+
+	box-shadow: none;
+}
+.list h2 {
+	color:#222831;
+	padding: 1.5% 10%;
+	display: flex;
+	justify-content: center;
+	font-weight: 450 !important;
+	font-size: xx-large !important;
+}
+.listDone h2{
+	 text-decoration: line-through;
+	 color:#3a3e46;
+	padding: 1.5% 10%;
+	display: flex;
+	justify-content: center;
+	font-weight: 450 !important;
+	font-size: xx-large !important;
+
+}
+.list-btn {
+	
+	padding: 1.5% 10%;
+	display: flex;
+	justify-content: flex-end;
+}
+.btn-add{
+	color: #eeeeee;
+	background-color: #222831;
+	border: none;
+	height: 40px;
+}
+.btn-add:hover{
+	background-color: #0092ca !important;
+}
